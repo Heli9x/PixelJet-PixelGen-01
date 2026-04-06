@@ -1,5 +1,6 @@
 # PixelJet-PixelGen-01
-Generates images from json data containing a list of coordinates in a specified format. (Readme)
+Generates images from json data containing a list of coordinates in a specified format.
+**Powered by [LS-GEN](https://github.com/Heli9x/LS-GEN)**
 
 # PixelGen Scripts
 
